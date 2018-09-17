@@ -5,3 +5,4 @@ This chapter aims to provide concrete context as well as the key points for the 
 
 Each section is structured so that it includes a short description of the topic, an explanation of the relevance to Open Science, the key learning objectives that should be highlighted within the context of a training session, the major components \(knowledge and skills\) that should be involved, some frequent questions/obstacles/misconceptions that are encountered for that topic, and finally the expected outcomes of a training session and some further reading.
 
+
